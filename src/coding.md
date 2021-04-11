@@ -1,6 +1,6 @@
 ![Intel 4004](class:float-right:rounded:p-2:img/Intel4004.jpg)
 Electronics and software engineering have played a major role in my
-life since I was about 12 years old. In my [biography](#biograpy), you
+life since I was about 12 years old. In my [biography](#biography), you
 can read how it all got started. After I got
 [Intel's 4004 chip](https://en.wikipedia.org/wiki/Intel_4004) to work
 in a homemade "computer", I quickly moved to bigger and better. After all,
@@ -29,7 +29,7 @@ recursive acronym meaning Xinu Is Not UNIX), wrote a database system
 and commercially developed software for a German Prefab Housing
 company.
 
-As you can also see in my [biography](#biograpy), I started my professional
+As you can also see in my [biography](#biography), I started my professional
 career as a system software developer/analyst. I stayed in that field
 my entire professional life but as I moved up the ladder, I got further
 and further away from coding and at the end, I spent more time in
