@@ -1,0 +1,46 @@
+include /page.pug
+
++page("Johan Goossens")
+	+menubar("Johan Goossens")
+		+menuitem("Coding", "#coding")
+		+menuitem("Music", "#music")
+		+menuitem("Design", "#design")
+		+menuitem("Brewing", "#brewing")
+		+menuitem("Biography", "#biography")
+		+menuitem("Links", "#links")
+
+	+intro("Johan A. Goossens", "'Confusion Inspired Art and Science'", "img/background.jpg")
+		include:markdown-it intro.md
+		+next("#coding")
+	+spacer()
+
+	+section("coding", "Coding Software")
+		include:markdown-it coding.md
+		+next("#music")
+	+spacer()
+
+	+section("music", "Making Music")
+		include:markdown-it music.md
+		+next("#design")
+	+spacer()
+
+	+section("design", "Designing Contraptions")
+		include:markdown-it design.md
+		+next("#brewing")
+	+spacer()
+
+	+section("brewing", "Brewing Beer")
+		include:markdown-it brewing.md
+		+next("#biography")
+	+spacer()
+
+	+section("biography", "Biography")
+		include:markdown-it biography.md
+		+next("#links")
+	+spacer()
+
+	+section("links", "Relevant Links")
+		include:markdown-it links.md
+	+spacer2()
+
+	+copyright()
