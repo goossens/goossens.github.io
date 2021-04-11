@@ -2,7 +2,7 @@ include /page.pug
 
 +page("Johan Goossens")
 	+menubar("Johan Goossens")
-		+menuitem("Coding", "#coding")
+		+menuitem("Software", "#software")
 		+menuitem("Music", "#music")
 		+menuitem("Design", "#design")
 		+menuitem("Brewing", "#brewing")
@@ -11,11 +11,11 @@ include /page.pug
 
 	+intro("Johan A. Goossens", "'Confusion Inspired Art and Science'", "img/background.jpg")
 		include:markdown-it intro.md
-		+next("#coding")
+		+next("#software")
 	+spacer()
 
-	+section("coding", "Coding Software")
-		include:markdown-it coding.md
+	+section("software", "Software Development")
+		include:markdown-it software.md
 		+next("#music")
 	+spacer()
 

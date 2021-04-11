@@ -3,15 +3,16 @@ Electronics and software engineering have played a major role in my
 life since I was about 12 years old. In my [biography](#biography), you
 can read how it all got started. After I got
 [Intel's 4004 chip](https://en.wikipedia.org/wiki/Intel_4004) to work
-in a homemade "computer", I quickly moved to bigger and better. After all,
-there is only so much so can do with a 4-bit computer that only has
-40 bytes of memory and no way to persistently store something beyond
-keeping the CPU backed up with battery power.
+in a homemade "computer", I quickly moved to bigger and better things.
+After all, there is only so much so can do with a 4-bit computer that
+only has 40 bytes of memory and no way to persistently store something
+beyond keeping the CPU backed up with battery power.
 
 ![Tandy TRS-80](class:float-left:rounded:p-2:img/TRS-80.jpg)
-In my late teens and early twenties, I quickly move to a
+In my late teens and early twenties, I worked my ass off in a supermarket
+and got myself a
 [Tandy (Radio Shack) TRS-80 Model I](https://en.wikipedia.org/wiki/TRS-80)
-using a cassette player for program and data storage and later adding a
+using a cassette player for program and data storage and later added a
 5-inch floppy drive. From there, I moved to a
 [Bondwell 12](http://www.z80.eu/bondwell.html) "luggable"
 all-in-one system,
@@ -40,12 +41,12 @@ engineering.
 Luckily for me, I could afford a Macintosh in the early 90s and have
 owned almost every model since the
 [Macintosh Plus](https://en.wikipedia.org/wiki/Macintosh_Plus).
-This allowed me to continue to write software for fun or to be used
-in my music hobby. You can read about this later
+This allowed me to continue to write software for fun or for my
+music hobby. You can read about this later.
 
 Now that I'm retired, I'll be more active again as a programmer.
 The first thing I'm dusting off is a programming language I developed
-in the early 90s. I originally developed a simple scripting language
+in the early 90s. I originally wrote a simple scripting language
 for work that is still in use today. For fun, I made it fully
 Object-Oriented and throughout the years, I used it to learn new
 techniques and I moved the implementation from Standard C to C++17.
@@ -61,6 +62,6 @@ the [Pugger](https://github.com/goossens/Pugger) tool. Nothing spectacular
 but it meets my simple needs.
 
 I'll also be making some of my music-related software available.
-The first will be a package called "Conductor" that takes to output
-of a MIDI device (in my case, my drum kit) and control a light show
+The first will be a package called "Conductor" that takes the output
+from a MIDI device (in my case, my drum kit) and control a light show
 based on recognized patterns and song recipes.
