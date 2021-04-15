@@ -5,10 +5,10 @@
 	* [MLC](/mlc)
 	* [Hippo](/hippo)
 * Johan's software endeavours:
-	* [ObjectTalk computer language](https://github.com/goossens/ObjectTalk)
-	* [Pugger static web site builder](https://github.com/goossens/Pugger)
+	* [ObjectTalk Computer Language](https://github.com/goossens/ObjectTalk)
+	* [Pugger Static Website Builder](https://github.com/goossens/Pugger)
 * Johan's Steampunk projects:
 	* [Desk Lamp](https://github.com/goossens/SteampunkDeskLamp)
 * Johan's Beer Brewing activities:
 	* [Homebrew Setup](/brewing)
-	* [Beer Brewing 1010](/brewing101) tutorial
+	* [Beer Brewing 101](/brewing101) tutorial

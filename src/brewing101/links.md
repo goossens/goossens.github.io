@@ -1,4 +1,4 @@
-* Johan's [Homepage](/)
+* All about [Johan Goossens](/index.html)
 * Johan's [War on Cancer](/waroncancer)
 * Johan's musical endeavours:
 	* [Rock on 11](/rockon11)
@@ -6,7 +6,7 @@
 	* [MLC](/mlc)
 	* [Hippo](/hippo)
 * Johan's software endeavours:
-	* [ObjectTalk computer language](https://github.com/goossens/ObjectTalk)
-	* [Pugger static web site builder](https://github.com/goossens/Pugger)
+	* [ObjectTalk Computer Language](https://github.com/goossens/ObjectTalk)
+	* [Pugger Static Website Builder](https://github.com/goossens/Pugger)
 * Johan's Steampunk projects:
 	* [Desk Lamp](https://github.com/goossens/SteampunkDeskLamp)

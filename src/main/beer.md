@@ -20,7 +20,7 @@ German ["Reinheitsgebot"](https://en.wikipedia.org/wiki/Reinheitsgebot)
 it was about ingredients but the end result was protectionism).
 This off course made trips back home more special as I could have my
 favorite beers again. I'll have a funny rant about this German
-protectionism in my [Beer Making 101](/beermaking) tutorial.
+protectionism in my [Beer Making 101](/brewing101) tutorial.
 
 Moving to the US in 1988 did not improve the situation. Most of these
 small Belgian breweries did not export to the US or the products were
