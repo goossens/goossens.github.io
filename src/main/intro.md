@@ -5,10 +5,10 @@ presence. This website provides access to all my retirement hobbies
 and activities. On this site, you'll find a strange combination of a strict
 engineering discipline combined with a desire to be an artistic rebel that
 doesn't always follow rules and recipes. Yes, you already figured it out,
-there is an awful lot of "do as I say, not as I do" on this site.
+there is a lot of "do as I say, not as I do" on this site.
 
-To better understand this structured yet rebellious innovative attitude,
-I've been using a quote from the late
+To better understand this structured yet rebellious and innovative
+attitude, I've been using a quote from the late
 [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) to explain this to
 the people that worked for and with me. I hope Steve and his estate
 don't mind fair use of his words as a tribute to his tremendous legacy.

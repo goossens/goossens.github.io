@@ -1,4 +1,4 @@
-![Johan Goossens](class:float-right:rounded-circle:ml-3:img/johan.jpg)
+![Johan Goossens](class:float-right:rounded-circle:ml-3:img/main/johan.jpg)
 Johan Goossens was born on June 3rd, 1960 in
 [Bergen op Zoom](https://en.wikipedia.org/wiki/Bergen_op_Zoom),
 a small town (~40.000 people at the time) in the south of
@@ -34,7 +34,7 @@ and later Ruud added electronic piano/keyboard to the mix.
 but military service and other real life interruptions made the band
 members drift apart.
 
-![Roncalli](class:float-left:rounded:p-2:img/Roncalli.jpg)
+![Roncalli](class:float-left:rounded:p-2:img/main/Roncalli.jpg)
 During those band years, most musicians went to the same high school
 ([Roncalli Scholengemeenshap](https://nl.wikipedia.org/wiki/SG_Roncalli))
 that had a unique education style based on the
@@ -61,7 +61,7 @@ picked a fight with him for being elitist and discriminatory. A debate
 raged for 2 hours (Johan took part as well) and at the end, the teacher
 apologized (half heartedly). Johan's extrovert journey had started.
 
-![Eifel](class:float-right:rounded:p-2:img/Eifel.jpg)
+![Eifel](class:float-right:rounded:p-2:img/main/Eifel.jpg)
 To avoid conscription in the
 [Royal Netherlands Army](https://en.wikipedia.org/wiki/Royal_Netherlands_Army), Johan voluntarily joined the
 [Royal Netherlands Air Force](https://en.wikipedia.org/wiki/Royal_Netherlands_Air_Force)
@@ -78,7 +78,7 @@ as a programmer/analyst. He left the Royal Netherlands Air Force in
 
 As in most bands, the drummer gets the pretty girl and during the Hippo
 years, Johan started to date Nicole (yes the singer of the band and
-sister of his friend). In 1983, Nicole had moved to Germany and in 1988
+sister of his friend). In 1983, Nicole moved to Germany and in 1988
 they got married and moved to the US.
 
 From 1988 to 1993, Johan worked for SACLANT as the System Software
@@ -101,7 +101,7 @@ An old passion was rediscovered and lots of dollars later,
 The Goossens' house was full of PA equipment, a recording studio and a
 light show.
 
-![ACT](class:float-left:rounded:p-2:img/ACT.png)
+![ACT](class:float-left:rounded:p-2:img/main/ACT.png)
 In 2006, Johan became the
 [ACT](https://en.wikipedia.org/wiki/Allied_Command_Transformation)
 Technology and Human Factors Branch Head responsible for ACT’s Command
@@ -128,11 +128,11 @@ Chairman of the multi-national FMN Capability Planning Working Group
 application of data science and artificial intelligence in NATO.
 
 In 2019, Johan got diagnosed with stage 2 bladder cancer. You can read
-his entire story in his "[war on cancer](/WarOnCancer)" blog.
+his entire story in his "[war on cancer](/waroncancer)" blog.
 After a 20 month battle with cancer and numerous infections, Johan is now
 cancer free and getting back to a regular life.
 
-![MSM](class:float-right:rounded:p-2:img/MSM.png)
+![MSM](class:float-right:rounded:p-2:img/main/MSM.png)
 On January 1st, 2021, Johan retired after almost 40 years of continuous
 international service. Johan was awarded the prestigious
 [NATO Meritorious Service Medal (MSM)](https://en.wikipedia.org/wiki/NATO_Medal#NATO_Meritorious_Service_Medal)
@@ -142,3 +142,11 @@ Today, Johan and Nicole happily live in
 [Virginia Beach, VA](https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia)
 were both spend time on their hobbies. Johan and Nicole have 2 children:
 Martijn and Melanie.
+
+![COVID](class:rounded:img-fluid:img/main/COVID.jpg)
+
+	Working under COVID-19 conditions;
+	Directing a multinational event
+	with over 1000 people from 25 Countries
+	spread out over 10 Timezones
+	from a home office

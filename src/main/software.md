@@ -1,4 +1,6 @@
-![Intel 4004](class:float-right:rounded:p-2:img/Intel4004.jpg)
+![Coding](class:rounded:img-fluid:img/main/Coding.jpg)
+
+![Intel 4004](class:float-right:rounded:p-2:img/main/Intel4004.jpg)
 Electronics and software engineering have played a major role in my
 life since I was about 12 years old. In my [biography](#biography), you
 can read how it all got started. After I got
@@ -8,7 +10,7 @@ After all, there is only so much so can do with a 4-bit computer that
 only has 40 bytes of memory and no way to persistently store something
 beyond keeping the CPU backed up with battery power.
 
-![Tandy TRS-80](class:float-left:rounded:p-2:img/TRS-80.jpg)
+![Tandy TRS-80](class:float-left:rounded:p-2:img/main/TRS-80.jpg)
 In my late teens and early twenties, I worked my ass off in a supermarket
 and got myself a
 [Tandy (Radio Shack) TRS-80 Model I](https://en.wikipedia.org/wiki/TRS-80)
@@ -37,7 +39,7 @@ and further away from coding and at the end, I spent more time in
 international politics than in software development, innovation or
 engineering.
 
-![Macintosh Plus](class:float-right:rounded:p-2:img/MacintoshPlus.jpg)
+![Macintosh Plus](class:float-right:rounded:p-2:img/main/MacintoshPlus.jpg)
 Luckily for me, I could afford a Macintosh in the early 90s and have
 owned almost every model since the
 [Macintosh Plus](https://en.wikipedia.org/wiki/Macintosh_Plus).
@@ -47,7 +49,7 @@ music hobby. You can read about this later.
 Now that I'm retired, I'll be more active again as a programmer.
 The first thing I'm dusting off is a programming language I developed
 in the early 90s. I originally wrote a simple scripting language
-for work that is still in use today. For fun, I made it fully
+for work that is still in use 30 years later. For fun, I made it fully
 Object-Oriented and throughout the years, I used it to learn new
 techniques and I moved the implementation from Standard C to C++17.
 [ObjectTalk](https://github.com/goossens/ObjectTalk) is now Open Source
@@ -59,7 +61,10 @@ from this, great.
 I've also started to find easier ways to build static web sites like
 this one. Most platforms were too heavy for me so I quickly created
 the [Pugger](https://github.com/goossens/Pugger) tool. Nothing spectacular
-but it meets my simple needs.
+but it meets my simple needs. By creating a few simple
+[PugJS](https://pugjs.org/) templates with a few
+[Markdown](https://www.markdownguide.org) text files,
+responsive websites are created in seconds.
 
 I'll also be making some of my music-related software available.
 The first will be a package called "Conductor" that takes the output

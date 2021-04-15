@@ -1,0 +1,57 @@
+include /page.pug
+
++page("Beer Brewing")
+	+menubar("Beer Brewing")
+		+menuitem("Mashing", "#mashing")
+		+menuitem("Boiling", "#boiling")
+		+menuitem("Fermenting", "#fermenting")
+		+menuitem("Maturing", "#maturing")
+		+menuitem("Carbonating", "#carbonating")
+		+menuitem("Enjoying", "#enjoying")
+		+menuitem("Links", "#links")
+
+	+intro("Beer Brewing 101", "Crafting Masterpieces in Six Easy Steps", "img/brewing101/background.jpg")
+		include:markdown-it brewing101/intro.md
+		+next("#process")
+	+spacer()
+
+	+section("process", "The Process")
+		include:markdown-it brewing101/process.md
+		+next("#mashing")
+	+spacer()
+
+	+section("mashing", "Mashing")
+		include:markdown-it brewing101/mashing.md
+		+next("#boiling")
+	+spacer()
+
+	+section("boiling", "Boiling")
+		include:markdown-it brewing101/boiling.md
+		+next("#fermenting")
+	+spacer()
+
+	+section("fermenting", "Fermenting")
+		include:markdown-it brewing101/fermenting.md
+		+next("#maturing")
+	+spacer()
+
+	+section("maturing", "Maturing")
+		include:markdown-it brewing101/maturing.md
+		+next("#carbonating")
+	+spacer()
+
+	+section("carbonating", "Carbonating")
+		include:markdown-it brewing101/carbonating.md
+		+next("#enjoying")
+	+spacer()
+
+	+section("enjoying", "Enjoying")
+		include:markdown-it brewing101/enjoying.md
+		+next("#links")
+	+spacer()
+
+	+section("links", "Relevant Links")
+		include:markdown-it brewing101/links.md
+	+spacer2()
+
+	+copyright()

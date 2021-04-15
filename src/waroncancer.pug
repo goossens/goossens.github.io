@@ -1,0 +1,49 @@
+include /page.pug
+
++page("War on Cancer")
+	+menubar("War on Cancer")
+		+menuitem("Background", "#background")
+		+menuitem("Diagnosis", "#diagnosis")
+		+menuitem("Chemo", "#chemo")
+		+menuitem("Surgery", "#surgery")
+		+menuitem("Infections", "#infections")
+		+menuitem("Victory", "#victory")
+		+menuitem("Links", "#links")
+
+	+intro("My War on Cancer", "by Johan A. Goossens", "img/cancer/background.jpg")
+		include:markdown-it cancer/intro.md
+		+next("#background")
+	+spacer()
+
+	+section("background", "The Story Before the Story")
+		include:markdown-it cancer/background.md
+		+next("#diagnosis")
+	+spacer()
+
+	+section("diagnosis", "Diagnosing the Problem")
+		include:markdown-it cancer/diagnosis.md
+		+next("#chemo")
+	+spacer()
+
+	+section("chemo", "Chemotherapy")
+		include:markdown-it cancer/chemo.md
+		+next("#surgery")
+	+spacer()
+
+	+section("surgery", "Bladder Removal")
+		include:markdown-it cancer/surgery.md
+		+next("#infections")
+	
+	+section("infections", "Multiple Infections")
+		include:markdown-it cancer/infections.md
+		+next("#victory")
+
+	+section("victory", "'Victory'")
+		include:markdown-it cancer/victory.md
+		+next("#links")
+
+	+section("links", "Relevant Links")
+		include:markdown-it cancer/links.md
+	+spacer2()
+
+	+copyright()

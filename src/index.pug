@@ -5,42 +5,42 @@ include /page.pug
 		+menuitem("Software", "#software")
 		+menuitem("Music", "#music")
 		+menuitem("Design", "#design")
-		+menuitem("Brewing", "#brewing")
+		+menuitem("Beer", "#beer")
 		+menuitem("Biography", "#biography")
 		+menuitem("Links", "#links")
 
-	+intro("Johan A. Goossens", "'Confusion Inspired Art and Science'", "img/background.jpg")
-		include:markdown-it intro.md
+	+intro("Johan A. Goossens", "'Confusion Inspired Art and Science'", "img/main/background.jpg")
+		include:markdown-it main/intro.md
 		+next("#software")
 	+spacer()
 
 	+section("software", "Software Development")
-		include:markdown-it software.md
+		include:markdown-it main/software.md
 		+next("#music")
 	+spacer()
 
 	+section("music", "Making Music")
-		include:markdown-it music.md
+		include:markdown-it main/music.md
 		+next("#design")
 	+spacer()
 
 	+section("design", "Designing Contraptions")
-		include:markdown-it design.md
-		+next("#brewing")
+		include:markdown-it main/design.md
+		+next("#beer")
 	+spacer()
 
-	+section("brewing", "Brewing Beer")
-		include:markdown-it brewing.md
+	+section("beer", "Brewing Beer")
+		include:markdown-it main/beer.md
 		+next("#biography")
 	+spacer()
 
 	+section("biography", "Biography")
-		include:markdown-it biography.md
+		include:markdown-it main/biography.md
 		+next("#links")
 	+spacer()
 
 	+section("links", "Relevant Links")
-		include:markdown-it links.md
+		include:markdown-it main/links.md
 	+spacer2()
 
 	+copyright()
