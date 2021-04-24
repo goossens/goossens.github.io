@@ -20,7 +20,7 @@ German ["Reinheitsgebot"](https://en.wikipedia.org/wiki/Reinheitsgebot)
 it was about ingredients but the end result was protectionism).
 This off course made trips back home more special as I could have my
 favorite beers again. I'll have a funny rant about this German
-protectionism in my [Beer Making 101](/brewing101) tutorial.
+protectionism in my [Beer Making 101](brewing101.html) tutorial.
 
 Moving to the US in 1988 did not improve the situation. Most of these
 small Belgian breweries did not export to the US or the products were
@@ -43,6 +43,6 @@ and dispense it using a
 [kegerator](https://en.wikipedia.org/wiki/Kegerator).
 
 You can find a detailed description of my current setup complete with
-my recipes on my [brewing](/brewing) page. For those that have not
+my recipes on my [brewing](brewing.html) page. For those that have not
 yet been exposed to the brewing jargon, I even have a
-[Beer Making 101](/brewing101) tutorial for beginners.
+[Beer Making 101](brewing101.html) tutorial for beginners.

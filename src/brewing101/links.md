@@ -1,5 +1,5 @@
-* All about [Johan Goossens](/index.html)
-* Johan's [War on Cancer](/waroncancer)
+* All about [Johan Goossens](index.html)
+* Johan's [War on Cancer](waroncancer.html)
 * Johan's musical endeavours:
 	* [Rock on 11](/rockon11)
 	* [Cujo Panic](/cujopanic)

@@ -128,7 +128,7 @@ Chairman of the multi-national FMN Capability Planning Working Group
 application of data science and artificial intelligence in NATO.
 
 In 2019, Johan got diagnosed with stage 2 bladder cancer. You can read
-his entire story in his "[war on cancer](/waroncancer)" blog.
+his entire story in his "[war on cancer](waroncancer.html)" blog.
 After a 20 month battle with cancer and numerous infections, Johan is now
 cancer free and getting back to a regular life.
 

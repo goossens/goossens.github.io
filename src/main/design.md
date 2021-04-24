@@ -1,6 +1,6 @@
 ![Desk Lamp](class:rounded:img-fluid:img/main/DeskLamp.jpg)
 
-During my [cancer treatment](/waroncancer), I had a hard time focussing
+During my [cancer treatment](waroncancer.html), I had a hard time focussing
 and I spent a lot of time watching TV and YouTube. During this time, I
 became fascinated with [Steampunk](https://en.wikipedia.org/wiki/Steampunk).
 On YouTube there are many very talented people who create beautiful

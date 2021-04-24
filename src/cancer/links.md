@@ -1,4 +1,4 @@
-* All about [Johan Goossens](/index.html)
+* All about [Johan Goossens](index.html)
 * Johan's musical endeavours:
 	* [Rock on 11](/rockon11)
 	* [Cujo Panic](/cujopanic)
@@ -10,5 +10,5 @@
 * Johan's Steampunk projects:
 	* [Desk Lamp](https://github.com/goossens/SteampunkDeskLamp)
 * Johan's Beer Brewing activities:
-	* [Homebrew Setup](/brewing)
-	* [Beer Brewing 101](/brewing101) tutorial
+	* [Homebrew Setup](brewing.html)
+	* [Beer Brewing 101](brewing101.html) tutorial
