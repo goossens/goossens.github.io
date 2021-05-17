@@ -120,3 +120,21 @@ in my lower right leg. Luckily, I did not cause too much damage and
 physical therapy alone will probably do the trick. The good news about
 this is that at least they'll teach me the right way to warm up before
 I do something crazy next time.
+
+### My Daughter's College Graduation - 7 May 2021
+
+Two years ago I was undergoing chemotherapy and I attended my son's
+college graduation between rounds three and four. On one side, it was
+a victory dance as cancer couldn't stop my from attending and being proud.
+On the other side, the chemo had taken its toll and thoughts about
+mortality were dominating the days surrounding the graduation
+(you can about it above in the 18 May 2019 entry).
+
+It's now two years later, I'm doing a lot better and I was able to
+attend my daughter's graduation. It felt great but I have to admit
+that I was overcome by emotion when her name was called. Two years ago,
+I wasn't sure if I would see this moment. Well, I did and I'm proud of
+my daughter who's struggled with [Auditory Procession Disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) her entire life.
+Not only did she obtain her Bachelors of Science in Communications,
+she was also accepted into three graduate schools. That girl will be
+going places and I couldn't be more proud of her.
