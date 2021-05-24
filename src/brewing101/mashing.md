@@ -154,7 +154,7 @@ resulted from crushing the grain.
 
 Once the mashing and lautering processes are completed, it is time to
 separate the sweet wort from the grain and rinse the grain to extracted
-every last bit of sugar. This is called sparging and people have come
+every last bit of sugar. This is called sparging and people have come up
 with a lot of ways to do this. Sparging is typically done with water
 warmer than the wort. As you can see later, if you automate the
 mashing and lautering process, there are plenty of people who argue
@@ -230,7 +230,7 @@ as constant as possible during the entire mashing process.
 
 Once you move to an all electric system, you can move to a multi-step
 infusion process where you use different temperatures to extract the
-sugars. This is the process used by commercial beer brewer as it
+sugars. This is the process used by commercial beer brewers as it
 allows them to extract more and the right kind of sugars to achieve the
 effect they are after. If you are interest in this, the links at the
 bottom of this page will recommend books and web site that will explain
