@@ -162,17 +162,17 @@ badly that she was now in a hospice. We decided to extend our trip for one
 week and she died in my wife’s arms during the night when she had the
 watch. We were able to attend the funeral and came back on Christmas Eve.
 My body behaved perfectly and we couldn’t have scripted this sad event any
-better. When there’s an ocean between you and your parents, it is hard with
-end-of-life events. Two of our parents died of catastrophic events (one a
-massive heart attach and the other of a stroke), one died of pancreatic
-cancer and the last of old age. We were very grateful that we could be
-there for at least one of them.
+better. When there’s an ocean between you and your parents, end-of-life
+situations are very hard. Two of our parents died of catastrophic events
+(one a massive heart attach and the other of a stroke), one died of
+pancreatic cancer and the last of old age. We were very grateful that we
+could be there for at least one of them.
 
 ### Six Month CT scan, 2 January 2020
 
 My regular oncology CT  scan was clean so at least that news was good.
 
-### Infection Number 3, 10 January 2020 ==
+### Infection Number 3, 10 January 2020
 
 My luck ran out and I was once again hospitalized for a kidney infection.
 This time my fever was 104 with a heart rate of 160 at rest when I walked

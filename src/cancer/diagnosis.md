@@ -153,7 +153,7 @@ one week to make it heal faster.
 
 ### Update, 20 March 2019
 
-My urologist was nice enough to call me with the biopsy results and not]let me wait until the appointment one week later. The second biopsy confirmed
+My urologist was nice enough to call me with the biopsy results and not let me wait until the appointment one week later. The second biopsy confirmed
 the results of the first one. I have high grade bladder cancer and this
 time they confirmed it did spread to the bladder muscle. This means I have
 stage 2 cancer and his recommended procedure is chemo followed by bladder

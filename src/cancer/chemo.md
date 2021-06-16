@@ -68,7 +68,7 @@ surprise, I'm not just doing the 1 in 20 MVAC, I'm doing the accelerated or
 is every 2 weeks (lucky me). The sales pitch is that your body has less
 side affects if you do it faster (don't ask me about that logic).
 
-So right after the chemo training I entered the chemical warfare room and
+So right after the chemo training, I entered the chemical warfare room and
 got my M chemical. Not a big event as it was over in 30 minutes with no
 side effects. On Friday however, I did my VAC chemicals which was
 advertised as 5 hours. Just like any good airline, we had some delays
@@ -227,8 +227,8 @@ might look like a Navy Seal but not the one that's on trial for war crimes.
 Thank goodness for that clarification.
 
 My family in the Netherlands had a different view as they compared me to
-rock stars like Peter Gabriel and Billy Joel. If you read the "about me
-block" at the end of this blog, you quickly realize how fitting that was.
+rock stars like Peter Gabriel and Billy Joel. If you read
+[my main web page](index.html), you quickly realize how fitting that was.
 
 ![rockers](class:rounded:img-fluid:img/cancer/IMG_0703.jpg)
 

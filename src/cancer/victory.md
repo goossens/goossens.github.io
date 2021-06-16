@@ -1,6 +1,6 @@
 ### Major Surgery Number 2, 12 August 2020
 
-Today it is finally time and they will hopefully fix my ureter once and for
+Today, it is finally time and they will hopefully fix my ureter once and for
 all. It will be a 4 to 5 hour surgery by two surgeons assisted by my friend
 Da Vinci, the robot.
 
