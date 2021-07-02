@@ -41,20 +41,20 @@ that had a unique education style based on the
 [Dalton Plan](https://en.wikipedia.org/wiki/Dalton_Plan) (Dalton Systeem
 in Dutch). In this system, students are given a lot of freedom to
 determine their own speed of learning and many classes are a strange
-combination of classic lectures, discussion and interaction. For Johan
-this turned out to be very important as he clearly belonged to the spectrum
-of crippling introverts. Without Roncalli, he would have never been
+combination of classic lectures, discussion and interaction. For Johan,
+this turned out to be very important as he clearly belonged to the
+crippling introverts tribe. Without Roncalli, he would have never been
 able to learn how to act as an extrovert.
 
-One interesting event happened however that could have changed the course
+One interesting thing however that could have changed the course
 of history. As a shy young man, Johan typically did not engage in the
 historical, political or social discussions during history and civics
 classes (same teacher). One day during elections in the Netherlands,
-Johan (out of the blue) decided to speak up and voice his slightly left
+Johan (out of the blue) decided to speak up and he voiced his slightly left
 of center progressive views. This was clearly not appreciated by his
 far left teacher who put him down immediately with those famous words:
 *"What do you know about this? You're just the son of a milkman!"*.
-Well, that encounter could have made Johan an extreme
+Well, that encounter could have made Johan an extremely
 crippling introvert for the rest of his life but something special
 happened. The other students did not accept the teachers reaction and
 picked a fight with him for being elitist and discriminatory. A debate
@@ -77,9 +77,9 @@ as a programmer/analyst. He left the Royal Netherlands Air Force in
 [Norfolk, VA](https://en.wikipedia.org/wiki/Norfolk,_Virginia).
 
 As in most bands, the drummer gets the pretty girl and during the Hippo
-years, Johan started to date Nicole (yes the singer of the band and
-sister of his friend). In 1983, Nicole moved to Germany and in 1988
-they got married and moved to the US.
+years, Johan started to date Nicole (yes, the singer of the band and
+sister of his best friend). In 1983, Nicole also moved to Germany and
+in 1988, they got married and moved to the US.
 
 From 1988 to 1993, Johan worked for SACLANT as the System Software
 Section Chief in support of maritime command and control. In 1993, Johan
@@ -90,10 +90,11 @@ to work at the US Navy Research Laboratory NOSC/NRaD (now called the
 
 In 1998, Johan returned to Norfolk, VA, to take the position of
 User Domain Support Branch Head for the ACLANT System Support Center (ASSC).
-In that role he was responsible for rapid development, in-service support
-and training for some NATO systems. These products constantly adopted
-emerging technologies, saw 15 major updates in 12 years and were
-proliferated throughout the entire Alliance and numerous NATO/Partner Nations.
+In that role he was responsible for rapid system development, in-service
+support and training for some NATO systems. These products constantly
+adopted emerging technologies, saw 15 major updates in 12 years and were
+proliferated throughout the entire Alliance and numerous NATO/Partner Nations (at one point there were more than 400 installations in 25
+countries).
 
 After years of not playing in a band, Johan started
 [Mid-Life Crises (MLC)](/mlc) in 1999 and very soon Nicole joined.
