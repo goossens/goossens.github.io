@@ -123,18 +123,44 @@ I do something crazy next time.
 
 ### My Daughter's College Graduation - 7 May 2021
 
-Two years ago I was undergoing chemotherapy and I attended my son's
+Two years ago, I was undergoing chemotherapy and I attended my son's
 college graduation between rounds three and four. On one side, it was
 a victory dance as cancer couldn't stop my from attending and being proud.
 On the other side, the chemo had taken its toll and thoughts about
-mortality were dominating the days surrounding the graduation
-(you can about it above in the 18 May 2019 entry).
+mortality dominated the days surrounding the graduation (you can about
+it above in the 18 May 2019 entry).
 
 It's now two years later, I'm doing a lot better and I was able to
 attend my daughter's graduation. It felt great but I have to admit
-that I was overcome by emotion when her name was called. Two years ago,
-I wasn't sure if I would see this moment. Well, I did and I'm proud of
-my daughter who's struggled with [Auditory Procession Disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) her entire life.
-Not only did she obtain her Bachelors of Science in Communications,
-she was also accepted into three graduate schools. That girl will be
-going places and I couldn't be more proud of her.
+that I was overcome with emotion when her name was called. Two years ago
+there was a lot of uncertainty and I wasn't sure if I would live to
+see this moment. Well, I did and I'm proud of my daughter who's struggled
+with [Auditory Procession Disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) her entire life. Education was never easy
+for her but that stubborn gene I passed to her clearly served a purpose.
+No learning disability was going to stop her and with talent and shear
+willpower, she succeeded. Not only did she obtain her Bachelors of Science
+in Communications, she was also accepted into the three graduate schools
+she applied for. According to her, I'll have to call her madam president
+one day. That girl will be going places and I couldn't be more proud of
+her.
+
+### Hitting an Important Milestone - 1 July 2021
+
+During the early days of my cancer treatment, my oncologist gave me the
+statistics on surviving stage 2 bladder cancer. At that time, I was very
+focussed on the day-to-day treatment but one milestone always stuck in my head. Apparently, the two year anniversary of chemotherapy plus bladder
+removal is a significant point in the journey for this decease. After two
+years of being "clean", there's a 95% probability that this aggressive
+type of cancer will not reappear in bones, kidneys, liver or lungs (the places this cancer migrates to). My oncologists, who's been practicing for
+almost 40 years, sad that he has only seen three cases where the cancer
+came back after two years. Well, guess what? I did a full upper body
+[CT scan](https://en.wikipedia.org/wiki/CT_scan)
+(from my neck down to my upper legs) and it everything came back clean!
+This is a very happy day and I will be celebrating this news with my
+guardian angel (my wife). I know 95% is not 105% but in life, there are
+few to no guarantees. A very wise man (
+[Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin))
+once stated that "nothing is certain except death and taxes". So today,
+I'm standing tall and I'm proud that I'm "cheating" on the former.
+For those that are wondering, am I cheating on the later? Absolutely
+not! Surviving cancer is best enjoyed outside of prison.

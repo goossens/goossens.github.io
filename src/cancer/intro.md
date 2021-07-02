@@ -3,7 +3,7 @@ with and full recovery from stage 2 muscle-invasive bladder cancer.
 The story is in chronological order meaning that the latest news is at
 the bottom. You can simple scroll through the story or use the navigation
 link at the top right to jump to a specific section. The last update of
-this blog was on 7 May 2021.
+this blog was on 1 July 2021.
 
 The motivation for this blog was to inform my family and friends who are
 spread out over 10 time zones. Initially I sent emails to those interested
