@@ -3,7 +3,7 @@
 	Cujo Panic practice session in our music room
 
 Ever since I was a teenager, I've been involved with music.
-Initially this was limited to operating a "drive-in" disco but later
+Initially this was limited to operating a "mobile disco" but later
 my interest shifted to playing the drums in classic rock bands.
 As you can see in my [biography](#biography), this interest in music
 went hand in hand with an obsession for electronics and computer
