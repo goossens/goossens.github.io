@@ -4,11 +4,11 @@ already raise a first point. Where do all these crazy brewing terms
 come from? Well, I have no idea but I always suspected that
 beer brewers were a little drunk and simply bastardized common words.
 Just stand in from of a mirror, pull a silly face and say the words
-mash and wort 20 times. You'll see what I mean.
+mash and wort 20 times. Now do it after a few beers. You'll see what I mean.
 
 The idea behind the mash is to extract sugars from fermentables that
 we can later turn into alcohol. For today's homebrewers there are
-two and half different ways to handle this step. Firstly, we're going to
+two and half ways to handle this step. Firstly, we're going to
 look at using **malt extracts** which were created by someone else. Think
 of it as outsourcing the first step so we don't have to start with a lot
 of equipment. Using extracts, everybody can make beer on the kitchen
@@ -24,7 +24,7 @@ extracts can be purchased from a homebrew store and often they sell
 them in kits to include the other ingredients as well. In both cases
 someone else has extracted sugars from fermentables and we just
 simply add them to water. Dry Malt Extract or DME comes in powder form
-and Liquid Malt Extract (LME) comes as the name suggests in liquid form.
+and Liquid Malt Extract or LME comes as the name suggests in liquid form.
 
 ![Extract Brewing](class:rounded:img-fluid:img/brewing101/brewing.022.jpeg)
 
@@ -68,7 +68,7 @@ made from sugars extracted from these grains.
 ![Fermentables](class:rounded:img-fluid:img/brewing101/brewing.005.jpeg)
 
 It is also possible to use other sources for our sugars and these
-are typically added to the grains above for flavor (like fruity beers
+are typically added to the grains above for flavor (think of fruity beers
 like Kriek Lambic) or to make stronger beers (like adding beet sugar for
 strong Abbey Ales). It is also possible to make alcoholic beverages by
 just using these fermentables. Think of wine or hard seltzers but these
@@ -78,8 +78,8 @@ are obviously not [beers](https://en.wikipedia.org/wiki/Beer).
 
 ### Malting Barley
 
-So how do we extract sugars from grain? Well, let's start with
-Barley. It turns out it's not easy to get the sugars released from it.
+So how do we extract sugars from grain? Well, let's start with Barley.
+It turns out that it's not easy to get the sugars released from it.
 The slide below sums up our problem.
 
 ![Barley](class:rounded:img-fluid:img/brewing101/brewing.007.jpeg)
@@ -89,15 +89,15 @@ is used. Firstly, the grains are steeped to soften them up and then a
 germination process is started to open them up. Obviously we don't want
 to grow fields of barley at this point so we need to stop the process.
 Through a drying/roasting process, the germination process is halted
-and the barley is ready for our brewing process.
+and the barley is now ready for our brewing process.
 
 ![Malting](class:rounded:img-fluid:img/brewing101/brewing.008.jpeg)
 
-Since the barley is roasted at the end, different roasting times
-and temperatures will result in different products just like with
-coffee. Malts can therefore be roasted lightly to dark which results
-in a different color and flavor. Lighter beers typically uses malts
-from a lighter roast and darker beers like stouts use a darker roast.
+Since the barley is roasted at the end of the malting process, different
+roasting times and temperatures will result in different products just
+like with coffee. Malts can therefore be roasted lightly to dark which
+results in a different color and flavor. Lighter beers typically uses
+malts from a lighter roast and darker beers like stouts use a darker roast.
 
 The level to which the malt is roasted is measured in
 [degrees lovibond](https://en.wikipedia.org/wiki/Beer_measurement#Colour)
@@ -109,7 +109,7 @@ number.
 
 Some of you might already be getting scared at this but but don't fear,
 the malting process is typically done in large industrial facilities.
-As home brewers we simply buy the malt in the color we want for our
+As home brewers, we simply buy the malt in the color we want for our
 recipes. In fact, I don't know of a single home brewer that malts his/her
 own grain even though I assume they exist.
 
@@ -124,12 +124,12 @@ as they want full control over the process (e.g. determine coarseness).
 
 ### Extracting Sugars
 
-Well, we're finally ready to extract those sugars from our malt.
+Now we're finally ready to extract those sugars from our malt.
 I'll first explain the manual way and later explain how we
 can simplify and/or automate this process.
 
 Sugar extraction is the process of creating **sweet wort**,
-which is typically a three step process: **mashing** to extract the sugars,
+which is typically a three step affair: **mashing** to extract the sugars,
 **lautering** to filter the wort and **sparging** to get the last sugars
 from the grain.
 
@@ -139,26 +139,33 @@ Mashing is where we add warm **strike water** to the crushed grain which
 is typically at room temperature. A little bit of math is involved
 here as we want the combination of warm water and cool grain to end up at
 the desired mash temperature. Luckily these days there are great apps
-and websites that will do these calculations for us.
+and websites that will do these calculations for us. The temperature
+of the mash is important is it determines how the sugars are extracted
+and what kind of sugars we want. The science behind this is way
+beyond a Brewing 101 but at the bottom of this page is a reference to
+a book that explains it all. Warning thougH: there is some serious
+chemistry and biology involved here.
 
 ![Mashing](class:rounded:img-fluid:img/brewing101/brewing.012.jpeg)
 
-During the mashing process (or at the end), we use the **grain bed** to
-filter the sweet wort also called lautering. This is done by circulating
-liquid from the bottom of the **mash tun** to the top either by hand or
-with a pump. Mash tuns typically have false bottoms to support this and
-the grain bed does a great job at catching the small particles that
-resulted from crushing the grain.
+Throughout the mashing process (or just at the end), we use the
+**grain bed** to filter the sweet wort which is called **lautering**.
+Lautering is done by circulating liquid from the bottom of the
+**mash tun** to the top either by hand or with a pump. Mash tuns
+typically have false bottoms to support this and the grain bed does
+a great job at catching the small particles that resulted from crushing
+the grain.
 
 ![Lautering](class:rounded:img-fluid:img/brewing101/brewing.015.jpeg)
 
 Once the mashing and lautering processes are completed, it is time to
 separate the sweet wort from the grain and rinse the grain to extracted
-every last bit of sugar. This is called sparging and people have come up
-with a lot of ways to do this. Sparging is typically done with water
-warmer than the wort. As you can see later, if you automate the
-mashing and lautering process, there are plenty of people who argue
-that sparging is not even required.
+every last bit of sugar. This is called **sparging** and people have come
+up with a lot of ways to do this. Sparging is typically done with water
+warmer than the wort.
+
+As you can see later, if you automate the mashing and lautering process,
+there are plenty of people who argue that sparging is not even required.
 
 So if this wasn't obvious before,
 beer brewing is a religion and everybody has their own opinion. I can

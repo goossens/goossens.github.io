@@ -1,5 +1,5 @@
 The purpose of **the boil** is twofold. Firstly, we need to sterilize the
-the liquid and secondly, we need to **bitter up** the **sweet wort** with
+liquid and secondly, we need to **bitter up** the **sweet wort** with
 **hops** and turn it into a **bitter wort** that becomes the beer we
 all love.
 
@@ -31,7 +31,7 @@ classic Belgian recipe but using citrusy hops from California
 instead of traditional European varieties. For some this might be
 sacrilegious but for others, this might be the perfect confused beer
 that gets them exited about the next batch. Like cooking, brewing beer
-gives you the option to stay with tradition or explore endless new
+gives you the option to stay with tradition or explore new
 possibilities.
 
 So let's come back to planet earth and boil our wort. Typically a boil
@@ -54,10 +54,10 @@ If you use some sort of hop filter or hop spider, pellets are just as easy
 and given that more hop varieties are available in pellet form
 (at least where I live), I typically use more pellets than dried flowers.
 
-### International_Bitterness_Units
+### International Bitterness Units (IBUs)
 
-In beer brewing bitterness can be measured using
-[International_Bitterness_Units or IBUs](https://en.wikipedia.org/w/index.php?title=International_Bitterness_Units_scale). A lower number
+In beer brewing, bitterness can be measured using
+[International Bitterness Units or IBUs](https://en.wikipedia.org/w/index.php?title=International_Bitterness_Units_scale). A lower number
 indicates a beer that is less bitter like a German Hefeweizen and
 a higher number indicate high bitterness like many of today's IPAs.
 Many breweries, bars and restaurants have started to list the IBU level
@@ -68,7 +68,7 @@ it also let's you pick a favorite style while ordering a beer.
 
 For homebrewers, it is hard to measure IBUs as the test equipment is
 very expensive. You can however calculate the IBU level of your brew
-is you know the acid level of the hops used and the boil duration of
+if you know the acid level of the hops used and the boil duration of
 those hops. Most beer recipe apps have a builtin calculator and the
 [resources](#resource) section below has links to popular app.
 
@@ -102,12 +102,18 @@ the process. I've always used a regular chiller and it has served me well.
 To keep things sterilized, everything that touches the beer after the
 boil must be sterilized. Obviously you can use heat to do this by
 putting things first in an oven or dishwasher but for most of us, the
-use of food grade sanitizers is fast and effective.
+use of food grade sanitizers is fast and effective. These sanitizers
+(like StarSan) are used by many brewers as well as other parts of the
+food industry. Any object you want to sterilize has to be in contact with
+the sterilizer for a minute or so and you can use it immediately
+without drying as the sterilizer is food safe. This is really simple
+and effective.
 
 ![Sanitizers](class:rounded:img-fluid:img/brewing101/brewing.029.jpeg)
 
-In my case, I make a 2 gallon batch of sanitizer on brew day and use it
-to sanitize spoons, hoses and the fermentation vessel.
+In my case, I make a 2 gallon batch of sanitizer on brew day
+(you buy it concentrated and only need 1 once per 5 gallons) and use
+it to sanitize spoons, hoses and the fermentation vessel.
 
 ### Measuring Gravity
 
