@@ -127,16 +127,16 @@ Two years ago, I was undergoing chemotherapy and I attended my son's
 college graduation between rounds three and four. On one side, it was
 a victory dance as cancer couldn't stop my from attending and being proud.
 On the other side, the chemo had taken its toll and thoughts about
-mortality dominated the days surrounding the graduation (you can about
-it above in the 18 May 2019 entry).
+mortality dominated the days surrounding the graduation (you can read
+about it above in the 18 May 2019 entry).
 
 It's now two years later, I'm doing a lot better and I was able to
 attend my daughter's graduation. It felt great but I have to admit
 that I was overcome with emotion when her name was called. Two years ago
 there was a lot of uncertainty and I wasn't sure if I would live to
-see this moment. Well, I did and I'm proud of my daughter who's struggled
+see this day. Well, I did and I'm proud of my daughter who's struggled
 with [Auditory Procession Disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) her entire life. Education was never easy
-for her but that stubborn gene I passed to her clearly served a purpose.
+for her but that stubborn gene I passed on to her clearly served a purpose.
 No learning disability was going to stop her and with talent and shear
 willpower, she succeeded. Not only did she obtain her Bachelors of Science
 in Communications, she was also accepted into the three graduate schools
@@ -151,7 +151,7 @@ statistics on surviving stage 2 bladder cancer. At that time, I was very
 focussed on the day-to-day treatment but one milestone always stuck in my head. Apparently, the two year anniversary of chemotherapy plus bladder
 removal is a significant point in the journey for this decease. After two
 years of being "clean", there's a 95% probability that this aggressive
-type of cancer will not reappear in bones, kidneys, liver or lungs (the places this cancer migrates to). My oncologists, who's been practicing for
+type of cancer will not reappear in bones, kidneys, liver or lungs (the places this cancer migrates to). My oncologist, who's been practicing for
 almost 40 years, sad that he has only seen three cases where the cancer
 came back after two years. Well, guess what? I did a full upper body
 [CT scan](https://en.wikipedia.org/wiki/CT_scan)
