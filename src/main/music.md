@@ -10,18 +10,20 @@ went hand in hand with an obsession for electronics and computer
 science.
 
 You can read about my musical journey on the web sites below and
-you can listen to our music and see why we always kept our day
-jobs. Nevertheless, a few master pieces can be found and entertaining
-videos and photos capture a journey over more than four decades.
+you can listen to the music we made. You'll quickly find out why we
+all kept our day jobs. Nevertheless, a few master pieces can be found
+and entertaining videos and photos capture a journey over more than
+four decades.
 
 * [Rock on 11](/rockon11) - This is a project I started with my
 wife around 2013. In our home studio, we are trying to make the
 best possible covers of classic rock songs. In some cases we have
-friends help out. In other cases anonymous internet artist are providing
-a helping hand. Given that productions are done over time in the studio,
-many of the tracks have lots of takes and overdubs. It is very
-unlikely that we could ever pull these versions off live. All the
-bands below played live and numerous recordings are actually live.
+friends help out. In other cases anonymous internet artist are
+providing a helping hand. Given that productions are done over time
+in the studio, many of the tracks have lots of takes and overdubs.
+It is very unlikely that we could ever pull these versions off live.
+All the bands below played live and numerous recordings are actually
+live.
 * [Cujo Panic](/cujopanic) - This was a band we played in from 2007
 until 2009. As a classic three piece with an additional lead singer,
 we had some serious fun cranking out classic rock.
@@ -37,4 +39,4 @@ to. Pictures highlight how young we where.
 
 ![Gig](class:rounded:img-fluid:img/main/Gig.jpg)
 
-	MLC gig, tattoos and hair are NOT real
+	MLC gig; tattoos and hair are NOT real
