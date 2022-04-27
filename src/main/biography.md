@@ -141,7 +141,7 @@ in 2013 and the Golden Badge of the Estonian Ministry of Defense in 2015.
 
 Today, Johan and Nicole happily live in
 [Virginia Beach, VA](https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia)
-were both spend time on their hobbies. Johan and Nicole have 2 children:
+where both spend time on their hobbies. Johan and Nicole have 2 children:
 Martijn and Melanie.
 
 ![COVID](class:rounded:img-fluid:img/main/COVID.jpg)
