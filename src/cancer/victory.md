@@ -200,3 +200,18 @@ radiologists that look at my scans these days are better than the ones
 who missed my aggressive bladder cancer at the start of this journey.
 I know, the analyst is overthinking it again but at least the results
 were a very welcome Christmas present.
+
+### Reaching a Milestone - 26 July 2024
+
+It has been a while since I posted an update but the only things to
+report on were successful six-monthly CT scans and blood tests.
+Today, I’m celebrating the five year anniversary of my bladder removal
+and I’m therefore been cancer-free for the same amount of time.
+During a recent visit to my oncologist, he told me that in all his years
+of practice, he’s never seen my cancer type return after five years.
+This off course doesn’t mean something else couldn’t pop up but at least
+it is a good statistic.
+
+The other news is that both my urologist and oncologists are putting
+me know on an annual program for scans and blood tests instead of every
+six months. This is good news as well.
